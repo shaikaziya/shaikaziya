@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaik Aziya Sulthana</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
-<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikaziya&label=Profile%20views&color=0e75b6&style=flat" alt="shaikaziya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
