@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaik Aziya Sulthana</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikaziya&label=Profile%20views&color=0e75b6&style=flat" alt="shaikaziya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikaziya&label=Profile%20views&color=0e75b6&style=flat" alt="shaikaziya" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio1-murex.vercel.app/](https://portfolio1-murex.vercel.app/)
 
@@ -10,7 +9,7 @@
 
 - 📫 How to reach me **shaikaziya1234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kkSuKWxxiJ1lSR8WKuYEs0M6Hv9tY2kr/view?usp=share_link](https://drive.google.com/file/d/1kkSuKWxxiJ1lSR8WKuYEs0M6Hv9tY2kr/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TNVNCNRYeXQdfoGk337hEQijhg3F3-5z/view?usp=share_link](https://drive.google.com/file/d/1TNVNCNRYeXQdfoGk337hEQijhg3F3-5z/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikaziya&show_icons=true&locale=en" alt="shaikaziya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikaziya&" alt="shaikaziya" /></p>
-
