@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shaikaziya1234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TNVNCNRYeXQdfoGk337hEQijhg3F3-5z/view?usp=share_link](https://drive.google.com/file/d/1TNVNCNRYeXQdfoGk337hEQijhg3F3-5z/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Geen5JtzTkCWcxd3ABA_5vQ6TcSLfmPz/view?usp=share_link](https://drive.google.com/file/d/1Geen5JtzTkCWcxd3ABA_5vQ6TcSLfmPz/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
